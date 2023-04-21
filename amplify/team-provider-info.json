@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-quoteoftheday-dev-05052-authRole",
+      "UnauthRoleArn": "arn:aws:iam::434717071387:role/amplify-quoteoftheday-dev-05052-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::434717071387:role/amplify-quoteoftheday-dev-05052-authRole",
+      "Region": "ap-southeast-1",
+      "DeploymentBucketName": "amplify-quoteoftheday-dev-05052-deployment",
+      "UnauthRoleName": "amplify-quoteoftheday-dev-05052-unauthRole",
+      "StackName": "amplify-quoteoftheday-dev-05052",
+      "StackId": "arn:aws:cloudformation:ap-southeast-1:434717071387:stack/amplify-quoteoftheday-dev-05052/1039bd70-e06d-11ed-b9cc-062181072aee",
+      "AmplifyAppId": "d3j74f3osqu5lu"
+    },
+    "categories": {
+      "auth": {
+        "quoteofthedayf494259d": {}
+      }
+    }
+  }
+}

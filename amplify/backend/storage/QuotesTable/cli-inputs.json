@@ -1,0 +1,14 @@
+{
+  "resourceName": "QuotesTable",
+  "tableName": "QuotesTable",
+  "partitionKey": {
+    "fieldName": "id",
+    "fieldType": "number"
+  },
+  "sortKey": {
+    "fieldName": "timestamp",
+    "fieldType": "string"
+  },
+  "gsi": [],
+  "triggerFunctions": []
+}

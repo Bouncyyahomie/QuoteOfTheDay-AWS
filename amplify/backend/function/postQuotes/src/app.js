@@ -23,9 +23,9 @@ if (process.env.ENV && process.env.ENV !== "NONE") {
 }
 
 const userIdPresent = false; // TODO: update in case is required to use that definition
-const partitionKeyName = "id";
-const partitionKeyType = "N";
-const sortKeyName = "timestamp";
+const partitionKeyName = "users";
+const partitionKeyType = "S";
+const sortKeyName = "quotes";
 const sortKeyType = "S";
 const hasSortKey = sortKeyName !== "";
 const path = "/posts";
